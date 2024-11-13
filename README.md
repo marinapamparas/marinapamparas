@@ -35,4 +35,4 @@ AS Photography is a portfolio website for Agostina Schenone, a photographer base
 
 ## 💬 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/marina-pamparas/))
+- [LinkedIn](https://www.linkedin.com/in/marina-pamparas/)
