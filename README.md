@@ -27,10 +27,10 @@ I'm a passionate full stack developer focused on building innovative solutions. 
 
 Here are some of my awesome projects:
 
-### [Project 1](https://agoschenone.com)(https://github.com/marinapamparas/agoschenone)
+### [Project 1](https://agoschenone.com) (https://github.com/marinapamparas/agoschenone)
 AS Photography is a portfolio website for Agostina Schenone, a photographer based in St. Moritz. Built with React, modular components, Firebase, and Firestore, this project showcases Agostina’s work in an interactive and visually appealing way.
 
-### [Project 2](https://3dcomputacion-git-main-marinapamparas-projects.vercel.app/?vercelToolbarCode=cLdZ5AZuhev98Mi)(https://github.com/marinapamparas/3D-Computacion)
+### [Project 2](https://3dcomputacion-git-main-marinapamparas-projects.vercel.app/?vercelToolbarCode=cLdZ5AZuhev98Mi) (https://github.com/marinapamparas/3D-Computacion)
  A responsive website built with React for a client specializing in computer sales, developed based on a design provided by the UX/UI team via Figma.
 
 ## 💬 Let's Connect!
